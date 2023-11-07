@@ -1,7 +1,7 @@
 # Kafka-Realtime-Streaming
 
 ### System Architecture
-!(https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
 
 ### Project Overview
 This project is building an end-to-end pipeline. Start from ingestion data till final process and storage. And the tech stack in this project used is apeche airflow, apache kafka, apache spark, apache zookeeper and cassandra. Everything is containerized using Docker for ease of deployment and scalability.
